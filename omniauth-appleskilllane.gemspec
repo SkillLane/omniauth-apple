@@ -4,14 +4,14 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "omniauth/apple/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "omniauth-apple_skilllane"
-  spec.version       = OmniAuth::Apple::Skilllane::VERSION
+  spec.name          = "omniauth-appleskilllane"
+  spec.version       = OmniAuth::Appleskilllane::VERSION
   spec.authors       = ["Pawanwit", "Suvadhanabhakdi"]
   spec.email         = ["pawanwit@skilllane.com"]
 
   spec.summary       = %q{OmniAuth strategy for Sign In with Apple}
   spec.description   = %q{OmniAuth strategy for Sign In with Apple}
-  spec.homepage      = "https://bitbucket.org/skilllane/omniauth-skilllane"
+  spec.homepage      = "https://bitbucket.org/skilllane/omniauth-apple"
   spec.license       = ""
 
   # Prevent pushing this gem to RubyGems.org. To allow pushes either set the 'allowed_push_host'
