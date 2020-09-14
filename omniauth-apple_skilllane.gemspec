@@ -4,7 +4,7 @@ $LOAD_PATH.unshift(lib) unless $LOAD_PATH.include?(lib)
 require "omniauth/apple/version"
 
 Gem::Specification.new do |spec|
-  spec.name          = "omniauth-apple-skilllane"
+  spec.name          = "omniauth-apple_skilllane"
   spec.version       = OmniAuth::Apple::Skilllane::VERSION
   spec.authors       = ["Pawanwit", "Suvadhanabhakdi"]
   spec.email         = ["pawanwit@skilllane.com"]
