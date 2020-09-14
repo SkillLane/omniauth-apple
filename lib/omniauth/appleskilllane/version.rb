@@ -1,5 +1,5 @@
 module OmniAuth
-  module Apple
+  module Appleskilllane
     VERSION = "1.0.0"
   end
 end
